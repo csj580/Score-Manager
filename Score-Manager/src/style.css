@@ -1,0 +1,15 @@
+.disabled{
+    display: none;
+}
+h1 > *{
+    display: inline;
+}
+.win{
+    color: greenyellow;
+}
+.lose{
+    color: crimson;
+}
+.reset{
+    color: black;
+}
